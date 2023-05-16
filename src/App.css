@@ -1,0 +1,71 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-image: url('https://cdn.wallpapersafari.com/98/43/bOmLeu.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  color: white;
+}
+
+.App-content {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ant-form-item-label {
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.ant-form-item {
+  margin-bottom: 16px;
+}
+
+.ant-input {
+  width: 300px;
+  color: black;
+}
+
+.ant-btn {
+  width: 100%;
+}
+
+
+.login-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 420px;
+}
+
+.login-box {
+  margin-top: 20px;
+}
+
+
+
+
+
+
